@@ -1,0 +1,6 @@
+com.gustavoperez.apirest
+com.gustavoperez.apirest.config
+com.gustavoperez.apirest.controller
+com.gustavoperez.apirest.model
+com.gustavoperez.apirest.repository
+com.gustavoperez.apirest.service

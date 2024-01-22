@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.gustavoperez.apirest"},{"l":"com.gustavoperez.apirest.config"},{"l":"com.gustavoperez.apirest.controller"},{"l":"com.gustavoperez.apirest.model"},{"l":"com.gustavoperez.apirest.repository"},{"l":"com.gustavoperez.apirest.service"}]
